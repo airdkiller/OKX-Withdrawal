@@ -1,0 +1,8 @@
+API_KEY = ''  # Enter api_key
+SECRET = ''  # Enter secret
+PASSPHRASE = ''  # Enter passphrase
+
+TOKEN = ''	#e.g. ARB, ETH, EOS, DAI, USDT
+NETWORK = ''	#e.g. Arbitrum One, 'Polygon', 'ERC20', 'zkSync Lite', 'Optimism', 'BSC', 'TRC20', 'Avalanche C-Chain', etc.
+AMOUNT_MIN = 0	#Minium amount to withdraw
+AMOUNT_MAX = 1	#Maxium amount to withdraw, the amount is random generated inside the range
